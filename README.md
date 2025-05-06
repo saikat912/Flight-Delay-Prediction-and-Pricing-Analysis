@@ -127,8 +127,8 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 
 ## Contributors 👩‍💻👨‍💻
 
-- [Your Name]
-- [Collaborators]
+- [Saikat Pal]
+- 
 
 ---
 
